@@ -1,0 +1,86 @@
+[
+    {
+        "filename": "NORMAL2-IM-1326-0001.jpeg",
+        "prediction": "Bacterial Pneumonia",
+        "confidence": 97.61,
+        "timestamp": "2025-10-09 20:55:44",
+        "probs": [
+            0.020536011084914207,
+            0.9760625958442688,
+            0.003401473630219698
+        ],
+        "stage": "Severe Infection"
+    },
+    {
+        "filename": "person1_bacteria_2.jpeg",
+        "prediction": "Normal",
+        "confidence": 73.65,
+        "timestamp": "2025-10-09 23:12:22",
+        "probs": [
+            0.7364637851715088,
+            0.04858718067407608,
+            0.21494905650615692
+        ],
+        "stage": "Healthy"
+    },
+    {
+        "filename": "IM-0117-0001.jpeg",
+        "prediction": "Bacterial Pneumonia",
+        "confidence": 99.7,
+        "timestamp": "2025-10-09 23:13:38",
+        "probs": [
+            0.0024945430923253298,
+            0.9970391988754272,
+            0.0004662338178604841
+        ],
+        "stage": "Severe Infection"
+    },
+    {
+        "filename": "IM-0117-0001.jpeg",
+        "prediction": "Bacterial Pneumonia",
+        "confidence": 99.7,
+        "timestamp": "2025-10-10 09:42:27",
+        "probs": [
+            0.0024945430923253298,
+            0.9970391988754272,
+            0.0004662338178604841
+        ],
+        "stage": "Severe Infection"
+    },
+    {
+        "filename": "IM-0117-0001.jpeg",
+        "prediction": "Bacterial Pneumonia",
+        "confidence": 99.7,
+        "timestamp": "2025-10-10 10:47:35",
+        "probs": [
+            0.0024945430923253298,
+            0.9970391988754272,
+            0.0004662338178604841
+        ],
+        "stage": "Severe Infection"
+    },
+    {
+        "filename": "person81_virus_152.jpeg",
+        "prediction": "Viral Pneumonia",
+        "confidence": 51.14,
+        "timestamp": "2025-10-10 10:48:01",
+        "probs": [
+            0.15247103571891785,
+            0.3361542522907257,
+            0.5113746523857117
+        ],
+        "stage": "Moderate Infection"
+    },
+    {
+        "filename": "person1946_bacteria_4875.jpeg",
+        "prediction": "Normal",
+        "confidence": 50.62,
+        "timestamp": "2026-02-11 14:16:22",
+        "probs": [
+            0.506209671497345,
+            0.0007732637459412217,
+            0.4930170476436615
+        ],
+        "stage": "Healthy"
+    }
+]
