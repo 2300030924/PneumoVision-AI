@@ -45,8 +45,8 @@ The system integrates model inference with a web interface and generates automat
 
 ## ▶ Commands To Run
 
-pip install -r requirements.txt
-python app.py
+- pip install -r requirements.txt
+- python app.py
 
 Open in browser:
 http://127.0.0.1:5000
